@@ -1,0 +1,3 @@
+VitaminCSerum,Garnier,196,150.00,France
+SkinCleanser,Cetaphil,91,280.00,Switzerland
+Sunscreen,Aqualogica,217,600.00,India
